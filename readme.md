@@ -5,7 +5,3 @@ Run ls.msi application file
 Follow instructions as on the graphic
 click next and accept default settings
 Done!!!!!!!!!!
-
-## Development timeline
-
-Date of publish: 16/08/2023
